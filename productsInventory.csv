@@ -1,0 +1,24 @@
+1,coffee,Beverages,8,20
+2,tea,Beverages,4,20
+3,juice,Beverages,4,20
+4,cheese,Dairy,8,20
+5,milk,Dairy,2,20
+6,yogurt,Dairy,4,20
+7,pasta,Dry/Baking Goods,1,20
+8,cereals,Dry/Baking Goods,3,20
+9,flour,Dry/Baking Goods,1,20
+10,waffles,Frozen Foods,4,20
+11,ice cream,Frozen Foods,6,20
+12,Chicken legs,Meat,4,20
+13,Beef steaks,Meat,6,20
+14,tomato,Produce,2,20
+15,banana,Produce,0.2,20
+16,apple,Produce,1,20
+17,laundry detergent,Cleaners,3,20
+18,dishwashing liquid,Cleaners,2,20
+19,paper towels,Paper Goods,2,20
+20,toilet paper,Paper Goods,3,20
+21,aluminum foil,Paper Goods,2,20
+22,shampoo,Personal Care,5,20
+23,soap,Personal Care,2,20
+24,shaving cream,Personal Care,3,20
